@@ -15,7 +15,7 @@ when people use this inductive household nightlight in a dark walkway or a dark 
 
 Users can put two AAA batteries in the BBC micro:bit’s battery holder or use USB cable to supply the power to the nightlight. The night light will be activated directly without press any button as soon as it is plugged in. At the same time, night lights automatically adjust their own light according to the light intensity of the surrounding environment. If the light in the surrounding environment is bright, the nightlight will not shine but will show a dim pattern of  a heart. If users want to turn off the whole nightlight, they can simply unplug the power supply.
 
-[To see the demonstration] (https://vimeo.com/334234977)
+[To see the demonstration](https://vimeo.com/334234977)
 
 ### About the jukebox
 
@@ -24,5 +24,5 @@ Raspberry Pi connects to the BBC micro:bit and a JBL Flip 4 speaker. In this par
 ### How to use the jukebox
 When Raspberry Pi connects to the power supply and the jukebox is activated, users will see “Hi” displaying on the BBC micro:bit through LEDs and the first song is preset to be played randomly. The LEDs of the BBC micro:bit will display the number of the song which is playing now. Users can press the buttons of the micro:bit to switch songs. When users press A button, they will be led to the previous song. When they press B button, they will be led to the next song. In addition, when users touch pin1 on the BBC micro:bit, the playlist will shuffle and the music will be played at random again. When users touch pin0, they can shutdown the jukebox and will see the BBC micro:bit displaying “See you”.
 
-[To see the demonstration] (https://vimeo.com/334234344)
+[To see the demonstration](https://vimeo.com/334234344)
 
