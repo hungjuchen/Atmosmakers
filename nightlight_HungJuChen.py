@@ -1,4 +1,5 @@
-# Require to connect a light sensor to a BBC microbit.
+#Use for the nightlight.
+#Require to connect a light sensor to a BBC microbit.
 
 from microbit import *
 import time
